@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I’m a fourth-year Computer Science student at Cairo University, currently completing my bachelor’s degree and preparing to join Databricks in Berlin in October 2025. I enjoy designing efficient algorithms and building scalable software, with a focus on AI and machine learning solutions.
+I’m a fourth-year Computer Science student at Cairo University, currently completing my bachelor’s degree. I enjoy designing efficient algorithms and building scalable software, with a focus on AI and machine learning solutions.
 
 
 ## 🚀 Current Work
