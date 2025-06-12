@@ -18,5 +18,3 @@
 <a href="https://codeforces.com/profile/Gamal74">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>       
-
-*Last updated: June 2025*
